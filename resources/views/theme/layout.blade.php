@@ -125,7 +125,7 @@
                 <div class="space"></div>
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="images/section-image-1.png" alt="">
+                        <img src="{{ asset('theme/images/section-image-1.png') }}" alt="">
                         <div class="space"></div>
                     </div>
                     <div class="col-md-6">
@@ -203,7 +203,7 @@
 
 <!-- section start -->
 <!-- ================ -->
-<div class="section translucent-bg bg-image-1 blue">
+<div class="section translucent-bg bg-image-1 black">
     <div class="container object-non-visible" data-animation-effect="fadeIn">
         <h1 id="services"  class="text-center title">Worthy Services</h1>
         <div class="space"></div>
@@ -292,7 +292,7 @@
 
 <!-- section start -->
 <!-- ================ -->
-<div class="default-bg space blue">
+<div class="default-bg space black">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
@@ -330,7 +330,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item web-design">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-1.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-1.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-1">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Web Design</span>
@@ -354,7 +354,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-1.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-1.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -370,7 +370,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item app-development">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-2.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-2.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-2">
                                     <i class="fa fa-search-plus"></i>
                                     <span>App Development</span>
@@ -394,7 +394,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-2.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-2.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -410,7 +410,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item web-design">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-3.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-3.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-3">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Web Design</span>
@@ -434,7 +434,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-3.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-3.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -450,7 +450,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item site-building">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-4.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-4.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-4">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Site Building</span>
@@ -474,7 +474,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-4.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-4.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -490,7 +490,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item app-development">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-5.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-5.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-5">
                                     <i class="fa fa-search-plus"></i>
                                     <span>App Development</span>
@@ -514,7 +514,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-5.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-5.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -530,7 +530,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item web-design">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-6.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-6.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-6">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Web Design</span>
@@ -554,7 +554,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-6.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-6.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -570,7 +570,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item site-building">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-7.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-7.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-7">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Site Building</span>
@@ -594,7 +594,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-7.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-7.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -610,7 +610,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item web-design">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-8.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-8.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-8">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Web Design</span>
@@ -634,7 +634,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-8.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-8.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -650,7 +650,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item web-design">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-9.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-9.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-9">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Web Design</span>
@@ -674,7 +674,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-9.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-9.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -690,7 +690,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item site-building">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-10.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-10.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-10">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Site Building</span>
@@ -714,7 +714,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-10.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-10.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -730,7 +730,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item web-design">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-11.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-11.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-11">
                                     <i class="fa fa-search-plus"></i>
                                     <span>Web Design</span>
@@ -754,7 +754,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-11.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-11.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -770,7 +770,7 @@
                     <div class="col-sm-6 col-md-3 isotope-item app-development">
                         <div class="image-box">
                             <div class="overlay-container">
-                                <img src="images/portfolio-12.jpg" alt="">
+                                <img src="{{ asset('theme/images/portfolio-12.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-12">
                                     <i class="fa fa-search-plus"></i>
                                     <span>App Development</span>
@@ -794,7 +794,7 @@
                                                 <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
                                             </div>
                                             <div class="col-md-6">
-                                                <img src="images/portfolio-12.jpg" alt="">
+                                                <img src="{{ asset('theme/images/portfolio-12.jpg') }}" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -826,7 +826,7 @@
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
-                        <img src="images/testimonial-1.png" alt="">
+                        <img src="{{ asset('theme/images/testimonial-1.png') }}" alt="">
                     </div>
                     <div class="media-body">
                         <h3 class="media-heading">You are Amazing!</h3>
@@ -840,7 +840,7 @@
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
-                        <img src="images/testimonial-2.png" alt="">
+                        <img src="{{ asset('theme/images/testimonial-2.png') }}" alt="">
                     </div>
                     <div class="media-body">
                         <h3 class="media-heading">Yeah!</h3>
@@ -854,7 +854,7 @@
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
-                        <img src="images/testimonial-3.png" alt="">
+                        <img src="{{ asset('theme/images/testimonial-3.png') }}" alt="">
                     </div>
                     <div class="media-body">
                         <h3 class="media-heading">Thank You!</h3>
@@ -870,7 +870,7 @@
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
-                        <img src="images/testimonial-2.png" alt="">
+                        <img src="{{ asset('theme/images/testimonial-2.png') }}" alt="">
                     </div>
                     <div class="media-body">
                         <h3 class="media-heading">Thank You!</h3>
@@ -884,7 +884,7 @@
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
-                        <img src="images/testimonial-3.png" alt="">
+                        <img src="{{ asset('theme/images/testimonial-3.png') }}" alt="">
                     </div>
                     <div class="media-body">
                         <h3 class="media-heading">Amazing!</h3>
@@ -898,7 +898,7 @@
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
-                        <img src="images/testimonial-1.png" alt="">
+                        <img src="{{ asset('theme/images/testimonial-1.png') }}" alt="">
                     </div>
                     <div class="media-body">
                         <h3 class="media-heading">Best!</h3>
@@ -919,32 +919,32 @@
                 <div class="row">
                     <div class="col-xs-2">
                         <div class="list-horizontal-item">
-                            <img src="images/client-1.png" alt="client">
+                            <img src="{{ asset('theme/images/client-1.png') }}" alt="client">
                         </div>
                     </div>
                     <div class="col-xs-2">
                         <div class="list-horizontal-item">
-                            <img src="images/client-2.png" alt="client">
+                            <img src="{{ asset('theme/images/client-2.png') }}" alt="client">
                         </div>
                     </div>
                     <div class="col-xs-2">
                         <div class="list-horizontal-item">
-                            <img src="images/client-3.png" alt="client">
+                            <img src="{{ asset('theme/images/client-3.png') }}" alt="client">
                         </div>
                     </div>
                     <div class="col-xs-2">
                         <div class="list-horizontal-item">
-                            <img src="images/client-4.png" alt="client">
+                            <img src="{{ asset('theme/images/client-4.png') }}" alt="client">
                         </div>
                     </div>
                     <div class="col-xs-2">
                         <div class="list-horizontal-item">
-                            <img src="images/client-5.png" alt="client">
+                            <img src="{{ asset('theme/images/client-5.png') }}" alt="client">
                         </div>
                     </div>
                     <div class="col-xs-2">
                         <div class="list-horizontal-item">
-                            <img src="images/client-6.png" alt="client">
+                            <img src="{{ asset('theme/images/client-6.png') }}" alt="client">
                         </div>
                     </div>
                 </div>
