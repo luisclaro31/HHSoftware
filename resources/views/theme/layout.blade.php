@@ -5,9 +5,9 @@
 <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>Worthy | Free Powerful Theme by HtmlCoder</title>
+    <title>HHSoftware | Soluciones Tecnologicas y Educativas </title>
     <meta name="description" content="Worthy a Bootstrap-based, Responsive HTML5 Template">
-    <meta name="author" content="htmlcoder.me">
+    <meta name="author" content="www.softwarehh.com">
 
     @include('theme.head.style')
 
@@ -29,15 +29,16 @@
                 <!-- ================ -->
                 <div class="header-left clearfix">
 
-                    <!-- logo -->
+                    <!-- logo
                     <div class="logo smooth-scroll">
                         <a href="#banner"><img id="logo" src="images/logo.png" alt="HHSoftware"></a>
                     </div>
+                    -->
 
                     <!-- name-and-slogan -->
                     <div class="site-name-and-slogan smooth-scroll">
                         <div class="site-name"><a href="#banner">HHSoftware</a></div>
-                        <div class="site-slogan">Free Bootstrap Theme by <a target="_blank" href="http://htmlcoder.me">HtmlCoder</a></div>
+                        <div class="site-slogan">Soluciones <a target="_blank" href="www.softwarehh.com">Tecnólogicas</a> y <a target="_blank" href="www.softwarehh.com">Educativas</a> </div>
                     </div>
 
                 </div>
@@ -72,12 +73,12 @@
                                 <!-- Collect the nav links, forms, and other content for toggling -->
                                 <div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
                                     <ul class="nav navbar-nav navbar-right">
-                                        <li class="active"><a href="#banner">Home</a></li>
-                                        <li><a href="#about">About</a></li>
-                                        <li><a href="#services">Services</a></li>
+                                        <li class="active"><a href="#banner">Inicio</a></li>
+                                        <li><a href="#about">Nosotros</a></li>
+                                        <li><a href="#services">Servicios</a></li>
                                         <li><a href="#portfolio">Portfolio</a></li>
-                                        <li><a href="#clients">Clients</a></li>
-                                        <li><a href="#contact">Contact</a></li>
+                                        <li><a href="#clients">Clientes</a></li>
+                                        <li><a href="#contact">Contactanos</a></li>
                                     </ul>
                                 </div>
 
@@ -105,8 +106,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
-                    <h1 class="text-center">Somos <span>HHSoftware</span></h1>
-                    <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos debitis provident nulla illum minus enim praesentium repellendus ullam cupiditate reiciendis optio voluptatem, recusandae nobis quis aperiam, sapiente libero ut at.</p>
+                    <h1 class="text-center">En <span>HHSoftware</span></h1>
+                    <p class="lead text-center">Contamos con un equipo de profesionales certificados y con experiencia en cada una de las áreas de su especialidad, lo que garantiza los más altos estándares de calidad en nuestras soluciones tecnológicas y educativas.</p>
                 </div>
             </div>
         </div>
@@ -120,8 +121,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 id="about" class="title text-center">About <span>Worthy</span></h1>
-                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta officia, aspernatur.</p>
+                <h1 id="about" class="title text-center">Nosotros <span>HHSoftware</span></h1>
+                <p class="lead text-center">Somos una organización innovadora en el campo del diseño e implementación de soluciones informáticas, capacitación en sistemas, Posicionamiento web e implementación de Herramientas tecnológicas.</p>
                 <div class="space"></div>
                 <div class="row">
                     <div class="col-md-6">
@@ -129,17 +130,17 @@
                         <div class="space"></div>
                     </div>
                     <div class="col-md-6">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi adipisci illo, voluptatum ipsam fuga error commodi architecto, laudantium culpa tenetur at id, beatae placeat deserunt iure quas voluptas fugit eveniet.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ducimus explicabo quibusdam temporibus deserunt doloremque pariatur ea, animi a. Delectus similique atque eligendi, enim vel reiciendis deleniti neque aliquid, sit?</p>
+                        <p>En HH Software sabemos lo importante que es para su empresa contar con un equipo de profesionales competentes dispuestos a responder productivamente ante los desafíos actuales. Esto nos impulsa a tener el compromiso de generar soluciones de tecnología informática, basados en un proceso de mejoramiento continuo para garantizar permanentemente la satisfacción de nuestros clientes a través del desarrollo de productos acorde a sus expectativas.</p>
+                        <p>Junto con su equipo tendremos un recurso humano idóneo, generando relaciones de mutuo beneficio que desarrollen en su empresa un ambiente que fomente la mejora continua y adaptabilidad a las nuevas tendencias y mejores prácticas relacionadas con el área de la tecnología.</p>
                         <ul class="list-unstyled">
-                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Lorem ipsum dolor sit amet</li>
-                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Reiciendis deleniti neque aliquid</li>
-                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Ipsam fuga error commodi</li>
-                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Lorem ipsum dolor sit amet</li>
-                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li>
+                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Misión</li>
+                            <p>Ofrecer a nuestros clientes soluciones integrales basadas en tecnologías de punta, a través de sistemas de información, para satisfacer las necesidades y cumplir sus objetivos, para buscar el crecimiento de  nuestros clientes, asociados y de nuestra empresa.</p>
+                            <li><i class="fa fa-caret-right pr-10 text-colored"></i> Visión</li>
+                            <p>Ser líderes en el mercado de soluciones tecnológicas y educativas brindando soluciones innovadoras alineadas con los objetivos del negocio de nuestros clientes.</p>
                         </ul>
                     </div>
                 </div>
+                <!--
                 <div class="space"></div>
                 <h2>Becessitatibus quae beatae possimus ullam</h2>
                 <div class="row">
@@ -195,6 +196,7 @@
                         </div>
                     </div>
                 </div>
+                -->
             </div>
         </div>
     </div>
@@ -205,44 +207,46 @@
 <!-- ================ -->
 <div class="section translucent-bg bg-image-1 black">
     <div class="container object-non-visible" data-animation-effect="fadeIn">
-        <h1 id="services"  class="text-center title">Worthy Services</h1>
+        <h1 id="services"  class="text-center title">HHSoftware Servicios</h1>
+        <p class="lead text-center">En HH Software Contamos  con un equipo de profesionales certificados y con experiencia en cada una de las áreas de su especialidad, lo que garantiza los más altos estándares de calidad en nuestras soluciones tecnológicas y educativas.</p>
+        <p class="lead text-center">La oferta de HH Software se estructura de manera flexible de acuerdo a las necesidades de cada cliente y cubre los servicios de capacitación, diseño, soporte técnico, operación, automatización y administración de plataformas tecnológicas.</p>
         <div class="space"></div>
         <div class="row">
             <div class="col-sm-6">
                 <div class="media">
                     <div class="media-body text-right">
-                        <h4 class="media-heading">Service 1</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <h4 class="media-heading">Diseño Web</h4>
+                        <p>Creamos páginas web fáciles de navegar, eficientes en la organización de los contenidos, y atractivas visualmente, todo  esto teniendo en cuenta la identidad de su empresa, sus necesidades y gustos.</p>
                     </div>
                     <div class="media-right">
-                        <i class="fa fa-cog"></i>
+                        <i class="fa fa-html5"></i>
                     </div>
                 </div>
                 <div class="media">
                     <div class="media-body text-right">
-                        <h4 class="media-heading">Service 2</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <h4 class="media-heading">App Web de Consulta</h4>
+                        <p>Llevamos a la Web todos los procesos de su empresa relacionados con Consulta de información, expedición de certificados, constancias, e información de interés, por medio de portales diseñados para hacer ingresos personalizados asegurando la privacidad y seguridad de la información de sus empleados o clientes, según sea la necesidad.</p>
                     </div>
                     <div class="media-right">
-                        <i class="fa fa-check"></i>
+                        <i class="fa fa-plug"></i>
                     </div>
                 </div>
                 <div class="media">
                     <div class="media-body text-right">
-                        <h4 class="media-heading">Service 3</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <h4 class="media-heading">Tickets LTE</h4>
+                        <p>Sistema de asignación, gestión y administración de turnos que logra darle comodidad a su cliente y control del tiempo de los procesos desarrollados por sus empleados a usted, con su diseño de ingreso personalizado y por niveles permite un manejo fácil y una excelente administración.</p>
                     </div>
                     <div class="media-right">
-                        <i class="fa fa-desktop"></i>
+                        <i class="fa fa-ticket"></i>
                     </div>
                 </div>
                 <div class="media">
                     <div class="media-body text-right">
-                        <h4 class="media-heading">Service 4</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <h4 class="media-heading">Capacitación y Educación</h4>
+                        <p>En el campo de desarrollo de competencias de formación ofrecemos a las distintas empresas e instituciones educativas cursos y talleres del área informática, orientados a optimizar la calidad de vida laboral y a mejorar la productividad de los trabajadores y futuros trabajadores.</p>
                     </div>
                     <div class="media-right">
-                        <i class="fa fa-users"></i>
+                        <i class="fa fa-child"></i>
                     </div>
                 </div>
             </div>
@@ -250,11 +254,20 @@
             <div class="col-sm-6">
                 <div class="media">
                     <div class="media-left">
-                        <i class="fa fa-leaf"></i>
+                        <i class="fa fa-black-tie"></i>
                     </div>
                     <div class="media-body">
-                        <h4 class="media-heading">Service 5</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <h4 class="media-heading">JusticiApp</h4>
+                        <p>es una herramienta Web creada ante la necesidad de mantener una correcta organización del devenir procesal de los diferentes asuntos que se adelantan en los despachos judiciales, es sencilla de manejar, entendible incluso para aquellos que no manejan conceptos propios de la rama del derecho, además permite acceder a la información específica que el usuario requiera bien sea para realizar una revisión rutinaria de procesos o para realizar un informe sobre el estado general de los mismos, de manera fácil y eficiente, permitiendo de esta manera realizar una mejor labor de seguimiento y control de los mismos.</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="media-left">
+                        <i class="fa fa-graduation-cap"></i>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">Mi Evaluación Web</h4>
+                        <p>Portal Web diseñado para simplificar los procesos realizados por las instituciones educativas logrando un ahorro en los recursos de la misma.</p>
                     </div>
                 </div>
                 <div class="media">
@@ -262,25 +275,16 @@
                         <i class="fa fa-area-chart"></i>
                     </div>
                     <div class="media-body">
-                        <h4 class="media-heading">Service 6</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <h4 class="media-heading">Sistematización</h4>
+                        <p>Brindamos completa asesoría a aquellos que buscan pasar su negocio a la nueva era de la tecnología de la información, asesorándolo en la adquisición de nuevas herramientas para la optimización de su empresa o negocio, teniendo en cuenta sus necesidades y presupuesto.</p>
                     </div>
                 </div>
                 <div class="media">
                     <div class="media-left">
-                        <i class="fa fa-child"></i>
+                        <i class="fa fa-facebook-square"></i>
                     </div>
                     <div class="media-body">
-                        <h4 class="media-heading">Service 7</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="media-left">
-                        <i class="fa fa-codepen"></i>
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service 8</h4>
+                        <h4 class="media-heading">Social Media</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
                     </div>
                 </div>
@@ -296,7 +300,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <h1 class="text-center">Let's Work Together!</h1>
+                <h1 class="text-center">¡Vamos a Trabajar Juntos!</h1>
             </div>
         </div>
     </div>
@@ -820,7 +824,7 @@
 <!-- ================ -->
 <div class="section translucent-bg bg-image-2 pb-clear">
     <div class="container object-non-visible" data-animation-effect="fadeIn">
-        <h1 id="clients" class="title text-center">Clients</h1>
+        <h1 id="clients" class="title text-center">Clientes</h1>
         <div class="space"></div>
         <div class="row">
             <div class="col-md-4">
@@ -976,7 +980,7 @@
     <!-- ================ -->
     <div class="footer section">
         <div class="container">
-            <h1 class="title text-center" id="contact">Contact Us</h1>
+            <h1 class="title text-center" id="contact">Contactanos</h1>
             <div class="space"></div>
             <div class="row">
                 <div class="col-sm-6">
