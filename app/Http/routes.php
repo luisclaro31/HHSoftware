@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('theme.layout');
 });
+
+Route::group(['prefix' => 'contact', ],
+    function() {
+        Route::resource('message','ContactController');
+    });

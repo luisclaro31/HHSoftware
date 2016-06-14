@@ -285,7 +285,7 @@
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">Social Media</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+                        <p>En HH Software contamos con profesionales encargados de dotar a los medios sociales de un enfoque empresarial y estratégico, siguiendo las últimas tendencias y usando las principales herramientas de monitorización y sus actualizaciones.<br> Nuestra metodología parte de tomar aquellos que nuestros clientes quieren comunicar y plasmarlo de manera que a los usuarios accedan a esa información de manera fácil y sea llamativo para ellos, formando una estrategia clara para que su compañía saque el mayor provecho de las redes sociales.</>
                     </div>
                 </div>
             </div>
@@ -311,9 +311,9 @@
 <!-- ================ -->
 <div class="section">
     <div class="container">
-        <h1 class="text-center title" id="portfolio">Portfolio</h1>
+        <h1 class="text-center title" id="portfolio">Portafolio</h1>
         <div class="separator"></div>
-        <p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p>
+        <p class="lead text-center">A continuación nuestro Portafolio:</p>
         <br>
         <div class="row object-non-visible" data-animation-effect="fadeIn">
             <div class="col-md-12">
@@ -321,17 +321,17 @@
                 <!-- isotope filters start -->
                 <div class="filters text-center">
                     <ul class="nav nav-pills">
-                        <li class="active"><a href="#" data-filter="*">All</a></li>
-                        <li><a href="#" data-filter=".web-design">Web design</a></li>
-                        <li><a href="#" data-filter=".app-development">App development</a></li>
-                        <li><a href="#" data-filter=".site-building">Site building</a></li>
+                        <li class="active"><a href="#" data-filter="*">Todo</a></li>
+                        <li><a href="#" data-filter=".app-web">App Web</a></li>
+                        <li><a href="#" data-filter=".web-development">Desarrollo Web</a></li>
+                        <li><a href="#" data-filter=".services">Servicios</a></li>
                     </ul>
                 </div>
                 <!-- isotope filters end -->
 
                 <!-- portfolio items start -->
                 <div class="isotope-container row grid-space-20">
-                    <div class="col-sm-6 col-md-3 isotope-item web-design">
+                    <div class="col-sm-6 col-md-3 isotope-item web-development">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-1.jpg') }}" alt="">
@@ -340,7 +340,7 @@
                                     <span>Web Design</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">Diseño Web</a>
                         </div>
                         <!-- Modal -->
                         <div class="modal fade" id="project-1" tabindex="-1" role="dialog" aria-labelledby="project-1-label" aria-hidden="true">
@@ -348,14 +348,13 @@
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-1-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-1-label">Diseño Web</h4>
                                     </div>
                                     <div class="modal-body">
-                                        <h3>Project Description</h3>
+                                        <h3>Descripción del Proyecto</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>Creamos páginas web fáciles de navegar, eficientes en la organización de los contenidos, y atractivas visualmente, todo  esto teniendo en cuenta la identidad de su empresa, sus necesidades y gustos.</p>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-1.jpg') }}" alt="">
@@ -371,47 +370,9 @@
                         <!-- Modal end -->
                     </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item app-development">
-                        <div class="image-box">
-                            <div class="overlay-container">
-                                <img src="{{ asset('theme/images/portfolio-2.jpg') }}" alt="">
-                                <a class="overlay" data-toggle="modal" data-target="#project-2">
-                                    <i class="fa fa-search-plus"></i>
-                                    <span>App Development</span>
-                                </a>
-                            </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-2">Project Title</a>
-                        </div>
-                        <!-- Modal -->
-                        <div class="modal fade" id="project-2" tabindex="-1" role="dialog" aria-labelledby="project-2-label" aria-hidden="true">
-                            <div class="modal-dialog modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-2-label">Project Title</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <h3>Project Description</h3>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <img src="{{ asset('theme/images/portfolio-2.jpg') }}" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Modal end -->
-                    </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item web-design">
+
+                    <div class="col-sm-6 col-md-3 isotope-item app-web">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-3.jpg') }}" alt="">
@@ -420,7 +381,7 @@
                                     <span>Web Design</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-3">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-3">Tickets LTE</a>
                         </div>
                         <!-- Modal -->
                         <div class="modal fade" id="project-3" tabindex="-1" role="dialog" aria-labelledby="project-3-label" aria-hidden="true">
@@ -428,14 +389,13 @@
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-3-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-3-label">Tickets LTE</h4>
                                     </div>
                                     <div class="modal-body">
                                         <h3>Project Description</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>Sistema de asignación, gestión y administración de turnos que logra darle comodidad a su cliente y control del tiempo de los procesos desarrollados por sus empleados a usted, con su diseño de ingreso personalizado y por niveles permite un manejo fácil y una excelente administración.</p>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-3.jpg') }}" alt="">
@@ -451,7 +411,7 @@
                         <!-- Modal end -->
                     </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item site-building">
+                    <div class="col-sm-6 col-md-3 isotope-item services">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-4.jpg') }}" alt="">
@@ -460,7 +420,7 @@
                                     <span>Site Building</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-4">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-4">Capacitación y Educación</a>
                         </div>
                         <!-- Modal -->
                         <div class="modal fade" id="project-4" tabindex="-1" role="dialog" aria-labelledby="project-4-label" aria-hidden="true">
@@ -468,14 +428,22 @@
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-4-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-4-label">Capacitación y Educación</h4>
                                     </div>
                                     <div class="modal-body">
                                         <h3>Project Description</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>En el campo de desarrollo de competencias de formación ofrecemos a las distintas empresas e instituciones educativas cursos y talleres del área informática, orientados a optimizar la calidad de vida laboral y a mejorar la productividad de los trabajadores y futuros trabajadores.</p>
+                                                <p>Entre las soluciones que ofrecemos están:</p>
+                                                <ul class="list-unstyled">
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Cursos de ofimática.</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Curso de Desarrollo de Software (Básico, Medio y Avanzado).</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Curso de Mantenimiento de equipo de Cómputo.</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Curso de Auditoria Informática.</li>
+                                                </ul>
+                                                <p>Todos Nuestros cursos Pueden Dictarse en la modalidad Presencia o a distancia mediante el uso de aulas virtuales.</p>
+                                                <p> <strong>A todas las instituciones o Empresas interesadas en nuestros servicios le ofrecemos un taller Gratis de 3-4 horas sobre Programación Básica, ASp.Net o Laravel.</strong> </p>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-4.jpg') }}" alt="">
@@ -491,16 +459,16 @@
                         <!-- Modal end -->
                     </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item app-development">
+                    <div class="col-sm-6 col-md-3 isotope-item app-web">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-5.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-5">
                                     <i class="fa fa-search-plus"></i>
-                                    <span>App Development</span>
+                                    <span>JusticiApp</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-5">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-5">JusticiApp</a>
                         </div>
                         <!-- Modal -->
                         <div class="modal fade" id="project-5" tabindex="-1" role="dialog" aria-labelledby="project-5-label" aria-hidden="true">
@@ -508,14 +476,13 @@
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-5-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-5-label">JusticiApp</h4>
                                     </div>
                                     <div class="modal-body">
-                                        <h3>Project Description</h3>
+                                        <h3>Descripción del Proyecto</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>es una herramienta Web creada ante la necesidad de mantener una correcta organización del devenir procesal de los diferentes asuntos que se adelantan en los despachos judiciales, es sencilla de manejar, entendible incluso para aquellos que no manejan conceptos propios de la rama del derecho, además permite acceder a la información específica que el usuario requiera bien sea para realizar una revisión rutinaria de procesos o para realizar un informe sobre el estado general de los mismos, de manera fácil y eficiente, permitiendo de esta manera realizar una mejor labor de seguimiento y control de los mismos.</p>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-5.jpg') }}" alt="">
@@ -531,7 +498,7 @@
                         <!-- Modal end -->
                     </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item web-design">
+                    <div class="col-sm-6 col-md-3 isotope-item services">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-6.jpg') }}" alt="">
@@ -540,7 +507,7 @@
                                     <span>Web Design</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-6">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-6">Sistematización</a>
                         </div>
                         <!-- Modal -->
                         <div class="modal fade" id="project-6" tabindex="-1" role="dialog" aria-labelledby="project-6-label" aria-hidden="true">
@@ -548,14 +515,13 @@
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-6-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-6-label">Sistematización</h4>
                                     </div>
                                     <div class="modal-body">
                                         <h3>Project Description</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>Brindamos completa asesoría a aquellos que buscan pasar su negocio a la nueva era de la tecnología de la información, asesorándolo en la adquisición de nuevas herramientas para la optimización de su empresa o negocio, teniendo en cuenta sus necesidades y presupuesto.</p>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-6.jpg') }}" alt="">
@@ -571,191 +537,30 @@
                         <!-- Modal end -->
                     </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item site-building">
-                        <div class="image-box">
-                            <div class="overlay-container">
-                                <img src="{{ asset('theme/images/portfolio-7.jpg') }}" alt="">
-                                <a class="overlay" data-toggle="modal" data-target="#project-7">
-                                    <i class="fa fa-search-plus"></i>
-                                    <span>Site Building</span>
-                                </a>
-                            </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-7">Project Title</a>
-                        </div>
-                        <!-- Modal -->
-                        <div class="modal fade" id="project-7" tabindex="-1" role="dialog" aria-labelledby="project-7-label" aria-hidden="true">
-                            <div class="modal-dialog modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-7-label">Project Title</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <h3>Project Description</h3>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <img src="{{ asset('theme/images/portfolio-7.jpg') }}" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Modal end -->
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 isotope-item web-design">
-                        <div class="image-box">
-                            <div class="overlay-container">
-                                <img src="{{ asset('theme/images/portfolio-8.jpg') }}" alt="">
-                                <a class="overlay" data-toggle="modal" data-target="#project-8">
-                                    <i class="fa fa-search-plus"></i>
-                                    <span>Web Design</span>
-                                </a>
-                            </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-8">Project Title</a>
-                        </div>
-                        <!-- Modal -->
-                        <div class="modal fade" id="project-8" tabindex="-1" role="dialog" aria-labelledby="project-8-label" aria-hidden="true">
-                            <div class="modal-dialog modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-8-label">Project Title</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <h3>Project Description</h3>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <img src="{{ asset('theme/images/portfolio-8.jpg') }}" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Modal end -->
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 isotope-item web-design">
-                        <div class="image-box">
-                            <div class="overlay-container">
-                                <img src="{{ asset('theme/images/portfolio-9.jpg') }}" alt="">
-                                <a class="overlay" data-toggle="modal" data-target="#project-9">
-                                    <i class="fa fa-search-plus"></i>
-                                    <span>Web Design</span>
-                                </a>
-                            </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-9">Project Title</a>
-                        </div>
-                        <!-- Modal -->
-                        <div class="modal fade" id="project-9" tabindex="-1" role="dialog" aria-labelledby="project-9-label" aria-hidden="true">
-                            <div class="modal-dialog modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-9-label">Project Title</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <h3>Project Description</h3>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <img src="{{ asset('theme/images/portfolio-9.jpg') }}" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Modal end -->
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 isotope-item site-building">
-                        <div class="image-box">
-                            <div class="overlay-container">
-                                <img src="{{ asset('theme/images/portfolio-10.jpg') }}" alt="">
-                                <a class="overlay" data-toggle="modal" data-target="#project-10">
-                                    <i class="fa fa-search-plus"></i>
-                                    <span>Site Building</span>
-                                </a>
-                            </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-10">Project Title</a>
-                        </div>
-                        <!-- Modal -->
-                        <div class="modal fade" id="project-10" tabindex="-1" role="dialog" aria-labelledby="project-10-label" aria-hidden="true">
-                            <div class="modal-dialog modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-10-label">Project Title</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <h3>Project Description</h3>
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <img src="{{ asset('theme/images/portfolio-10.jpg') }}" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Modal end -->
-                    </div>
-
-                    <div class="col-sm-6 col-md-3 isotope-item web-design">
+                    <div class="col-sm-6 col-md-3 isotope-item web-development">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-11.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-11">
                                     <i class="fa fa-search-plus"></i>
-                                    <span>Web Design</span>
+                                    <span>App Development</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-11">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-11">App Web de Consulta</a>
                         </div>
                         <!-- Modal -->
-                        <div class="modal fade" id="project-11" tabindex="-1" role="dialog" aria-labelledby="project-11-label" aria-hidden="true">
+                        <div class="modal fade" id="project-11" tabindex="-1" role="dialog" aria-labelledby="project-2-label" aria-hidden="true">
                             <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-11-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-2-label">App Web de Consulta</h4>
                                     </div>
                                     <div class="modal-body">
                                         <h3>Project Description</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>Llevamos a la Web todos los procesos de su empresa relacionados con Consulta de información, expedición de certificados, constancias, e información de interés, por medio de portales diseñados para hacer ingresos personalizados asegurando la privacidad y seguridad de la información de sus empleados o clientes, según sea la necesidad.</p>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-11.jpg') }}" alt="">
@@ -771,16 +576,16 @@
                         <!-- Modal end -->
                     </div>
 
-                    <div class="col-sm-6 col-md-3 isotope-item app-development">
+                    <div class="col-sm-6 col-md-3 isotope-item app-web">
                         <div class="image-box">
                             <div class="overlay-container">
                                 <img src="{{ asset('theme/images/portfolio-12.jpg') }}" alt="">
                                 <a class="overlay" data-toggle="modal" data-target="#project-12">
                                     <i class="fa fa-search-plus"></i>
-                                    <span>App Development</span>
+                                    <span>Mi Evaluación Web</span>
                                 </a>
                             </div>
-                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-12">Project Title</a>
+                            <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-12">Mi Evaluación Web</a>
                         </div>
                         <!-- Modal -->
                         <div class="modal fade" id="project-12" tabindex="-1" role="dialog" aria-labelledby="project-12-label" aria-hidden="true">
@@ -788,14 +593,20 @@
                                 <div class="modal-content">
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                                        <h4 class="modal-title" id="project-12-label">Project Title</h4>
+                                        <h4 class="modal-title" id="project-12-label">Mi Evaluación Web</h4>
                                     </div>
                                     <div class="modal-body">
-                                        <h3>Project Description</h3>
+                                        <h3>Descripción del Proyecto</h3>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde. Quae sed, incidunt laudantium nesciunt, optio corporis quod earum pariatur omnis illo saepe numquam suscipit, nemo placeat dignissimos eius mollitia et quas officia doloremque ipsum labore rem deserunt vero! Magnam totam delectus accusantium voluptas et, tempora quos atque, fugiat, obcaecati voluptatibus commodi illo voluptates dolore nemo quo soluta quis.</p>
-                                                <p>Molestiae sed enim laboriosam atque delectus voluptates rerum nostrum sapiente obcaecati molestias quasi optio exercitationem, voluptate quis consequatur libero incidunt, in, quod. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nobis officiis, autem earum tenetur quidem. Quae non dicta earum. Ipsum autem eaque cum dolor placeat corporis quisquam dolorum at nesciunt.</p>
+                                                <p>Portal Web diseñado para simplificar los procesos realizados por las instituciones educativas logrando un ahorro en los recursos de la misma.</p>
+                                                <ul class="list-unstyled">
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Cada docente dispone de su usuario y contraseña donde solo puede trabajar con su asignación académica.</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Digitación de notas en Planillas digitales.</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Apertura y cierre de periodo controlado por el administrador.</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Todos los procesos se realizan en línea ahorrando tiempo y minimizando las inconsistencias, debido a que los cambios los realizan los mismos usuarios.</li>
+                                                    <li><i class="fa fa-caret-right pr-10 text-colored"></i> Reportes académicos en línea actualizados con la información ingresada por los usuarios.</li>
+                                                </ul>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-12.jpg') }}" alt="">
@@ -827,6 +638,7 @@
         <h1 id="clients" class="title text-center">Clientes</h1>
         <div class="space"></div>
         <div class="row">
+            <!--
             <div class="col-md-4">
                 <div class="media testimonial">
                     <div class="media-left">
@@ -913,6 +725,7 @@
                     </div>
                 </div>
             </div>
+         -->
         </div>
     </div>
     <!-- section start -->
@@ -965,7 +778,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <h1 class="text-center">10000+ Happy Clients!</h1>
+                <h1 class="text-center">¡Se Parte de Nuestros Clientes!</h1>
             </div>
         </div>
     </div>
@@ -985,13 +798,15 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="footer-content">
-                        <p class="large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel nam magnam natus tempora cumque, aliquam deleniti voluptatibus voluptas. Repellat vel, et itaque commodi iste ab, laudantium voluptas deserunt nobis.</p>
+                        <p class="large">Por último, reiteramos nuestra intención de servir siempre a nuestros usuarios. Permítanos conocer sus inquietudes, opiniones y sugerencias sobre nuestros diferentes productos y servicios.</p>
                         <ul class="list-icons">
-                            <li><i class="fa fa-map-marker pr-10"></i> One infinity loop, 54100</li>
-                            <li><i class="fa fa-phone pr-10"></i> +00 1234567890</li>
-                            <li><i class="fa fa-fax pr-10"></i> +00 1234567891 </li>
-                            <li><i class="fa fa-envelope-o pr-10"></i> your@email.com</li>
+                            <!-- <li><i class="fa fa-map-marker pr-10"></i> One infinity loop, 54100</li> -->
+                            <li><i class="fa fa-phone pr-10"></i> +57 301 7296715</li>
+                            <li><i class="fa fa-whatsapp pr-10"></i> +57 320 7314287</li>
+                            <!-- <li><i class="fa fa-fax pr-10"></i> +00 1234567891 </li> -->
+                            <li><i class="fa fa-envelope-o pr-10"></i> hhsoftware2016@gmail.com </li>
                         </ul>
+                        <!--
                         <ul class="social-links">
                             <li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li>
                             <li class="twitter"><a target="_blank" href="https://twitter.com/HtmlcoderMe"><i class="fa fa-twitter"></i></a></li>
@@ -1002,28 +817,29 @@
                             <li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
                             <li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
                         </ul>
+                        -->
                     </div>
                 </div>
                 <div class="col-sm-6">
                     <div class="footer-content">
-                        <form role="form" id="footer-form">
+                        {!! Form::open(['route' => 'contact.message.index', 'method' => 'GET']) !!}
                             <div class="form-group has-feedback">
-                                <label class="sr-only" for="name2">Name</label>
-                                <input type="text" class="form-control" id="name2" placeholder="Name" name="name2" required>
+                                {!! Form::label('full_name', 'Nombres', ['class' => 'sr-only']) !!}
+                                {!! Form::text('full_name', null,['class' => 'form-control', 'placeholder' => 'Nombres', 'required']) !!}
                                 <i class="fa fa-user form-control-feedback"></i>
                             </div>
                             <div class="form-group has-feedback">
-                                <label class="sr-only" for="email2">Email address</label>
-                                <input type="email" class="form-control" id="email2" placeholder="Enter email" name="email2" required>
+                                {!! Form::label('email', 'Correo', ['class' => 'sr-only']) !!}
+                                {!! Form::email('email', null,['class' => 'form-control', 'placeholder' => 'Correo', 'required']) !!}
                                 <i class="fa fa-envelope form-control-feedback"></i>
                             </div>
                             <div class="form-group has-feedback">
-                                <label class="sr-only" for="message2">Message</label>
-                                <textarea class="form-control" rows="8" id="message2" placeholder="Message" name="message2" required></textarea>
+                                {!! Form::label('message', 'Mensaje', ['class' => 'sr-only']) !!}
+                                {!! Form::textarea('message', null,['class' => 'form-control', 'placeholder' => 'Mensaje', 'required']) !!}
                                 <i class="fa fa-pencil form-control-feedback"></i>
                             </div>
-                            <input type="submit" value="Send" class="btn btn-default">
-                        </form>
+                            {!! Form::submit('Enviar', ['class' => 'btn btn-default']) !!}
+                        {!! Form::close() !!}
                     </div>
                 </div>
             </div>
@@ -1037,7 +853,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="text-center">Copyright © 2014 Worthy by <a target="_blank" href="http://htmlcoder.me">HtmlCoder</a>.</p>
+                    <p class="text-center">Copyright © 2016 <a target="_blank" href="http://hhsoftware.app/e">HHSoftware</a>.</p>
                 </div>
             </div>
         </div>
