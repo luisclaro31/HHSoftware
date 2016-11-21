@@ -19,3 +19,7 @@ Route::group(['prefix' => 'contact', ],
     function() {
         Route::resource('message','ContactController');
     });
+
+Route::auth();
+
+Route::get('/home', 'HomeController@index');

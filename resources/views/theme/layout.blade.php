@@ -483,6 +483,7 @@
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <p>es una herramienta Web creada ante la necesidad de mantener una correcta organización del devenir procesal de los diferentes asuntos que se adelantan en los despachos judiciales, es sencilla de manejar, entendible incluso para aquellos que no manejan conceptos propios de la rama del derecho, además permite acceder a la información específica que el usuario requiera bien sea para realizar una revisión rutinaria de procesos o para realizar un informe sobre el estado general de los mismos, de manera fácil y eficiente, permitiendo de esta manera realizar una mejor labor de seguimiento y control de los mismos.</p>
+                                                <a href="http://app.softwarehh.com/login" class="btn btn-info">Ir A la Pagina</a>
                                             </div>
                                             <div class="col-md-6">
                                                 <img src="{{ asset('theme/images/portfolio-5.jpg') }}" alt="">

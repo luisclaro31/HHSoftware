@@ -30,7 +30,7 @@ class ContactController extends Controller
 
             $message->from($request->email, $request->full_name);
 
-            $message->to('hhhsoftware2016@gmail.com', 'HHSoftware')->subject('Formulario de Pagina Web');
+            $message->to('hlclarog@gmail.com', 'HHSoftware')->subject('Formulario de Pagina Web');
 
         });
 
